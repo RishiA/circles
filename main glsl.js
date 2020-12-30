@@ -12,7 +12,7 @@ let nr = function() {
 
 // let myWorker = new Worker('worker.js');
 
-let imagePath = "jeff.jpg";
+let imagePath = "aretha.png";
 
 let ctx;
 
